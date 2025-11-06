@@ -1,3 +1,5 @@
+[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE%20DEMO-brightgreen?style=for-the-badge)](https://dragonballsuper-1995.github.io/my-portfolio/)
+
 Hey there, I’m Sujal Sanjay Chhajed! 👋
 I’m a sports junkie, movie lover, and proud foodie with a deep passion for all things tech. Currently, I’m studying Computer Science & Engineering (with a sprinkle of AI & ML) at VIT Chennai—trying to mix creativity with code one project at a time.
 
