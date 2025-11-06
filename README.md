@@ -1,4 +1,17 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE%20DEMO-brightgreen?style=for-the-badge)](https://dragonballsuper-1995.github.io/my-portfolio/)
+<p align="center">
+  <a href="https://dragonballsuper-1995.github.io/my-portfolio/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=1a1a1a&logo=github&logoColor=white"
+      alt="Portfolio"
+      style="border-radius:12px;
+             box-shadow: 0 8px 20px rgba(26,26,26,0.95), /* dark outer glow */
+                         0 2px 6px rgba(255,255,255,0.03) inset; /* faint inner highlight */
+             filter: drop-shadow(0 6px 18px rgba(26,26,26,0.85));
+             -webkit-backdrop-filter: blur(6px);
+             backdrop-filter: blur(6px);"
+    />
+  </a>
+</p>
 
 Hey there, I’m Sujal Sanjay Chhajed! 👋
 I’m a sports junkie, movie lover, and proud foodie with a deep passion for all things tech. Currently, I’m studying Computer Science & Engineering (with a sprinkle of AI & ML) at VIT Chennai—trying to mix creativity with code one project at a time.
