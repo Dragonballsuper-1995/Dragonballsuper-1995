@@ -1,4 +1,4 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://dragonballsuper-1995.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://sujal-sanjay-chhajed.vercel.app/)
 
 Hey there, I’m Sujal Sanjay Chhajed! 👋
 I’m a sports junkie, movie lover, and proud foodie with a deep passion for all things tech. Currently, I’m studying Computer Science & Engineering (with a sprinkle of AI & ML) at VIT Chennai—trying to mix creativity with code one project at a time.
