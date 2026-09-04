@@ -3,7 +3,7 @@
 Hey there, I’m Sujal Sanjay Chhajed! 👋
 I’m a sports junkie, movie lover, and proud foodie with a deep passion for all things tech. Currently, I’m studying Computer Science & Engineering (with a sprinkle of AI & ML) at VIT Chennai—trying to mix creativity with code one project at a time.
 
-**<h2>A Little About Me</h2>**<br>
+**<h2>A Little About Me</h2>**
 Sports & F1 Fanatic:
 Whether it’s the roar of the crowd at a game or the high-octane excitement of Formula 1, I’m all in. I love the strategy, skill, and passion behind every match and race.
 
